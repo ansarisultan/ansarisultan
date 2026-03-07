@@ -1,15 +1,69 @@
-# 💫 About Me:
- 🚀 About Me<br><br>👋 Hi, I’m **Sultan Salauddin Ansari**, a 2nd-year B.Tech CSE student and frontend-focused developer with a strong interest in **AI-powered web applications**.<br><br>🧠 **Creator of FuncLexa** — an AI-powered developer portfolio and voice assistant built using **React, Tailwind CSS, Web Speech API, and LLMs (Groq)**.<br><br>💻 I’m currently working on:<br>- MERN stack projects<br>- AI-based virtual assistants (FuncLexa / FLexa)<br>- Clean, responsive frontend applications<br><br>🤝 I’m looking to collaborate on:<br>- React & MERN stack projects<br>- AI-integrated web apps<br>- Open-source frontend projects<br><br>📚 I’m currently learning:<br>- Advanced React patterns<br>- Full MERN stack development<br>- Generative AI integration in web apps<br><br>💬 Ask me about:<br>React, Tailwind CSS, JavaScript, Python, Core Java, building projects from scratch, and internships.<br><br>⚡ **Fun fact:** I started my tech journey at a very young age and strongly believe that *consistency beats talent every time*.<br>
+<h1 align="center">Sultan Salauddin Ansari</h1>
+<p align="center">
+Frontend Developer • AI Web Applications • MERN Stack
+</p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sultansansari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultansalauddinansari490@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ansarisultan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ansarisultan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansarisultan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I’m a **B.Tech CSE student** and developer focused on building **clean, modern web applications powered by AI**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Creator of **FuncLexa** — an AI-powered developer portfolio and voice assistant built with **React, Tailwind CSS, Web Speech API, and LLM integration**.
+
+I enjoy building projects from scratch, solving real problems, and combining **AI with web technologies**.
+
+---
+
+## Current Focus
+
+• MERN Stack Development  
+• AI-powered Web Applications  
+• Voice Assistants & AI Automation  
+• Clean and Responsive Frontend Systems  
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Java-black?style=flat&logo=openjdk"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/React-black?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/sultansansari">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin"/>
+</a>
+
+<a href="mailto:sultansalauddinansari490@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ansarisultan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ansarisultan&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarisultan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
